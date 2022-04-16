@@ -1,7 +1,6 @@
 
 .row{
-    margin-left: 20px;
-    margin-right: 20px;
+
     background-color: white;
 
 }
@@ -14,14 +13,17 @@
 }
 #titulo{
     text-align: center;
-    background-color: #E35023;
+    background-color: grey;
     margin-bottom: 20px;
 }
-#foto{
-    width:80%;
-    
-    background-color: white;
-    box-shadow: 4px 4px #78C000;
+#foto-ref{
+    max-width: 18em;
+    max-width: 20em;
+    /*Boxshadow*/
+    -moz-box-shadow:4px 4px 4px 4px rgb(112, 162, 148); 
+    -webkit-box-shadow:4px 4px 4px 4px rgb(112, 162, 148); 
+    box-shadow:4px 4px 4px 4px rgb(112, 162, 148);
+
 }
 h1{
     color: white;
@@ -31,6 +33,6 @@ p{
     color: black;
 }
 h2{
-    color:#78C000;
+    color:#70A294;
 
 }

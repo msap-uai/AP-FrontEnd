@@ -1,12 +1,21 @@
+@import "main.css";
+@import "icons.css";
 @import "header.css";
 @import "banner.css";
 @import "educacion.css";
+
+
+@import "login.css";
+/*
+
+
 @import "experiencia.css";
 @import "skills.css";
 @import "proyectos.css";
 @import "footer.css";
-@import "login.css";
-@import "icons.css";
+
+
+*/
 /*GOOGLE FONTS
 @import "https://fonts.googleapis.com/css?family=Roboto|Varela+Round";
 */

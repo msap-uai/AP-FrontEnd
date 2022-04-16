@@ -37,3 +37,47 @@
 .material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
 .material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
 .material-icons.orange { color: #FB8C00; }
+.material-icons.violet { color: #7e57c2; }
+.material-icons.negro { color: black; }
+/*alineacion*/
+.material-icons.centro { vertical-align:middle; }
+
+
+
+#wheel-header{
+
+}
+
+
+#wheel-banner{
+  position: absolute;
+}
+
+#wheel-foto{
+  position: absolute;
+  margin-left: 1.5em;
+  margin-top: -3em;
+  margin-bottom: 0%;
+}
+
+#wheel-nombre{
+  position: absolute;
+
+  margin-left: 3em;
+  margin-top: -0.5em;
+  margin-bottom: 0%;
+
+
+}
+#wheel-info{
+  position: absolute;
+
+  margin-left:-1em;
+
+}
+#wheel-info-text{
+  position: absolute;
+
+  margin-left:-1em;
+
+}

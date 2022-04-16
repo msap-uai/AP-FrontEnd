@@ -1,15 +1,22 @@
 
 #menu{
-    background-color: #7070A2;
+    background-color: #70A294;
     padding: 0%;
-    text-align: center;    
+    text-align: center;  
+
 }
+#manu-logo{
+    position: inline-block;
+}
+
+
+
 #AP_logo{
     width: 17em;
 }
 #img_social{
     width: 3em;
-    margin-top: 0.7em;;
+    margin-top: 0.7em;
     margin-left: 6px;
     
 }
@@ -24,6 +31,7 @@
     border-radius: .5rem;
     border: 2px solid;
 }
+
 @media (min-width:768px){
 
     #menu_logo{

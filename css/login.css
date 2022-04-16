@@ -1,3 +1,13 @@
 .modal{
-    background-color: rgba(112, 162, 148, 0.5);
+    
+    background-color: rgba(rgb(192,192,192,0.4));
 }
+.modal-content{
+    text-align: center;
+ 
+}
+.btn-primary{
+    background-color: #70A294;
+    border-color: #70A294;
+}
+
