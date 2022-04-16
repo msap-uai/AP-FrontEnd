@@ -1,0 +1,36 @@
+
+.row{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+
+}
+#foto-posicion{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: white;
+    
+}
+#titulo{
+    text-align: center;
+    background-color: #E35023;
+    margin-bottom: 20px;
+}
+#foto{
+    width:80%;
+    
+    background-color: white;
+    box-shadow: 4px 4px #78C000;
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px grey;
+}
+p{
+    color: black;
+}
+h2{
+    color:#78C000;
+
+}

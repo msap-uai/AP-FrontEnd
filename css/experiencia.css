@@ -1,0 +1,38 @@
+
+#experiencia-row{
+    border-left: 1em;
+    border-right: 1em;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+#foto-posicion{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: white;
+    
+}
+#titulo{
+    text-align: center;
+    background-color: #DBB92C;
+    margin-bottom: 20px;
+}
+#foto{
+    width:80%;
+    background-color: white;
+    box-shadow: 4px 4px #9664e7;
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px grey;
+}
+p{
+    color: black;
+}
+h2{
+    color:#9664e7;
+
+}

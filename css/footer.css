@@ -1,0 +1,22 @@
+#footer{
+    background-color: #7070A2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p,a{
+    color:white;
+    font: size 20px;
+    font-weight: 600;
+    text-align: center;
+    
+}
+#maps{
+    height: 4em;
+    background: white;
+    border-radius: 70%;
+    
+    
+}
+#map-col{
+    text-align: center;
+}
