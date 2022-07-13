@@ -19,6 +19,8 @@
 #foto-ref{
     max-width: 18em;
     max-width: 20em;
+    min-width: 15em;
+    min-width: 12em;
     /*Boxshadow*/
     -moz-box-shadow:4px 4px 4px 4px rgb(112, 162, 148); 
     -webkit-box-shadow:4px 4px 4px 4px rgb(112, 162, 148); 

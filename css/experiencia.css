@@ -1,13 +1,11 @@
 
-#experiencia-row{
-    border-left: 1em;
-    border-right: 1em;
+
+
+.row{
+
     background-color: white;
-    margin-left: 20px;
-    margin-right: 20px;
+
 }
-
-
 #foto-posicion{
     text-align: center;
     margin-top: auto;
@@ -17,13 +15,17 @@
 }
 #titulo{
     text-align: center;
-    background-color: #DBB92C;
+    background-color: grey;
     margin-bottom: 20px;
 }
-#foto{
-    width:80%;
-    background-color: white;
-    box-shadow: 4px 4px #9664e7;
+#foto-ref{
+    max-width: 18em;
+    max-width: 20em;
+    /*Boxshadow*/
+    -moz-box-shadow:4px 4px 4px 4px rgb(112, 162, 148); 
+    -webkit-box-shadow:4px 4px 4px 4px rgb(112, 162, 148); 
+    box-shadow:4px 4px 4px 4px rgb(112, 162, 148);
+
 }
 h1{
     color: white;
@@ -33,6 +35,6 @@ p{
     color: black;
 }
 h2{
-    color:#9664e7;
+    color:#70A294;
 
 }
